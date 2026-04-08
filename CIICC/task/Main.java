@@ -1,11 +1,20 @@
 package CIICC.task;
 
+
 public class Main {
     public static void main(String[] args) {
         
-        task2 task = new task2();
-        task.printing();
+        //task2 t2 = new task2();
+        //t2.printing();
 
+        //labActivity act = new labActivity();
+        //act.highestnumb();
+        
+        task3 t3 = new task3();
+        t3.changevariables();
+
+        //task4 t4 = new task4();
+        //t4.palindrome();
         
     }
 }
